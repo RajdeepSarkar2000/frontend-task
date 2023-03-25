@@ -1,0 +1,11 @@
+.sidebar {
+    position:absolute;
+    
+    top:0;
+    left:0;
+    height:100%;
+    width:340px;
+    background-color: #00204e ; 
+    box-shadow: 2px 0 5px rgba(0,0,0,0.2);
+
+}

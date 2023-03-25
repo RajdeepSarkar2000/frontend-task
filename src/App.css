@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+ 
+}
+body {
+    background-color: #e0e3e8;
+    font-family: "Rubik", sans-serif;
 }
 
 .App-logo {
